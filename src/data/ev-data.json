@@ -1,0 +1,26 @@
+[
+  {
+    "VIN": "5YJ3E1EA7J",
+    "County": "King",
+    "City": "Kirkland",
+    "State": "WA",
+    "Postal Code": "98034",
+    "Model Year": 2018,
+    "Make": "TESLA",
+    "Model": "MODEL 3",
+    "Electric Vehicle Type": "Battery Electric Vehicle (BEV)",
+    "CAFV Eligibility": "Clean Alternative Fuel Vehicle Eligible"
+  },
+  {
+    "VIN": "KM8K33AGXL",
+    "County": "King",
+    "City": "Seattle",
+    "State": "WA",
+    "Postal Code": "98103",
+    "Model Year": 2020,
+    "Make": "HYUNDAI",
+    "Model": "KONA",
+    "Electric Vehicle Type": "Battery Electric Vehicle (BEV)",
+    "CAFV Eligibility": "Clean Alternative Fuel Vehicle Eligible"
+  }
+]
